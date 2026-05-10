@@ -110,4 +110,27 @@ It reminds users to take medicines on time using RTC-based scheduling, LCD displ
 - Add IoT (SMS/Notification alerts)  
 - Mobile app integration  
 - Voice alert system  
-- Battery backup system  
+- Battery backup system
+
+  ## 📷 Project Screens
+
+### ⏰ RTC Display
+![RTC](images/rtc_display.jpg)
+
+### 📋 Main Menu
+![Menu](images/main_menu.jpg)
+
+### ⚙️ RTC Edit Menu
+![Edit](images/rtc_editmenu.jpg)
+
+### ⌨️ Input Screen
+![Input](images/input_hour.jpg)
+
+### ⌨️ Input Screen
+![Input](images/input_min.jpg)
+
+### 🚨 Medicine Alert
+![Alert](images/medicine_alert.jpg)
+
+### 🚨 Medicine Acknowledgement
+![Acknowledgement](images/medicine_ack.jpg)
